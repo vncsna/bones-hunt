@@ -3,17 +3,17 @@ guid: b7ae1dcf9be5c4a46b969376a3bb1e68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 905024258411163469
-    second: light_0
+      213: 9212275650587600386
+    second: Light_0
   - first:
-      213: -3603349178357385325
-    second: light_1
+      213: 7487790478215196332
+    second: Light_1
   - first:
-      213: 9030159923563963872
-    second: light_2
+      213: -3072485120178045993
+    second: Light_2
   - first:
-      213: -5848930692761323381
-    second: light_3
+      213: -1353870577195992829
+    second: Light_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,7 +115,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: light_0
+      name: Light_0
       rect:
         serializedVersion: 2
         x: 0
@@ -129,14 +129,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4f65bb94ca4f8c00800000000000000
-      internalID: 905024258411163469
+      spriteID: 206214e35e398df70800000000000000
+      internalID: 9212275650587600386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: light_1
+      name: Light_1
       rect:
         serializedVersion: 2
         x: 70
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 397ff4e73055efdc0800000000000000
-      internalID: -3603349178357385325
+      spriteID: caea19694c9f9e760800000000000000
+      internalID: 7487790478215196332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: light_2
+      name: Light_2
       rect:
         serializedVersion: 2
-        x: 132
-        y: 2
-        width: 120
-        height: 120
+        x: 130
+        y: 0
+        width: 126
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,14 +171,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e5affc4b92915d70800000000000000
-      internalID: 9030159923563963872
+      spriteID: 7db3d1adf075c55d0800000000000000
+      internalID: -3072485120178045993
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: light_3
+      name: Light_3
       rect:
         serializedVersion: 2
         x: 83
@@ -192,8 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b88f41e168c64dea0800000000000000
-      internalID: -5848930692761323381
+      spriteID: 309316612e5163de0800000000000000
+      internalID: -1353870577195992829
       vertices: []
       indices: 
       edges: []

@@ -5,7 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+<<<<<<< HEAD
   - hasMovement
+=======
+  - ShowOnPause
+>>>>>>> 9e62278bf6dbc1d9ae6066865d1b8b3e85958bb2
   layers:
   - Default
   - TransparentFX
