@@ -16,7 +16,7 @@ public class SkeletonMove : MonoBehaviour {
         if(almostEqual(transform.position, target)) {
             dogPos = DogDirection();
             target = RandomDirection();
-            if (sawDog || Vector3.Distance(dogPos, transform.position) < 100) {
+            if (sawDog || Vector3.Distance(dogPos, transform.position) < 200) {
                 sawDog = true;
                 target += dogPos;
             }

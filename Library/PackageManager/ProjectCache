@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637530742325701558
-    m_Hash: 2204306383
+      ticks: 637531473937098132
+    m_Hash: 686281437
   m_LockFileStatus:
     m_FilePath: C:/Users/Vinicius/Downloads/bones-hunt/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637530742506236723
-    m_Hash: 3394294237
+      ticks: 637531473937098132
+    m_Hash: 3979380318
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

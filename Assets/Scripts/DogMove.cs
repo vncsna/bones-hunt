@@ -44,7 +44,7 @@ public class DogMove : MonoBehaviour {
             transform.position = GlobalVariables.initialPosition();
             target = (Vector2) transform.position;
         }
-        if (co.tag == "Enemy") {
+        if (co.name.StartsWith("Skeleton")) {
             SceneManager.LoadScene("Lost");
         }
     }
