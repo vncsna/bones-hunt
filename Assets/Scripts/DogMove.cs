@@ -45,7 +45,7 @@ public class DogMove : MonoBehaviour {
             target = (Vector2) transform.position;
         }
         if (co.name.StartsWith("Skeleton")) {
-            SceneManager.LoadScene("Lost");
+            SceneManager.LoadScene("GameEnd");
         }
     }
 

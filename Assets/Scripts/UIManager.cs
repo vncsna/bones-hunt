@@ -39,15 +39,11 @@ public class UIManager : MonoBehaviour {
         }
     }
 
+    public void Restart() {
+        SceneManager.LoadScene("GameStart");
+    }
+
     public void Reload() {
         SceneManager.LoadScene("Game");
-    }
-
-    public void Exit() {
-        SceneManager.LoadScene("Start");
-    }
-
-    public void DEBUG() {
-        Debug.Log("AQUI");
     }
 }
