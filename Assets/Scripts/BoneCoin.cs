@@ -14,7 +14,7 @@ public class BoneCoin : MonoBehaviour {
             scoreText.GetComponent<Text>().text = "SCORE   0000" + GlobalVariables.score.ToString();
 
             if(GlobalVariables.score == 5) {
-                SceneManager.LoadScene("Won");
+                SceneManager.LoadScene("GameEnd");
             }
         }
     }
