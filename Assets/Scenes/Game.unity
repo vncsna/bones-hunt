@@ -1037,6 +1037,7 @@ GameObject:
   - component: {fileID: 1199132408}
   - component: {fileID: 1199132407}
   - component: {fileID: 1199132409}
+  - component: {fileID: 1199132410}
   m_Layer: 0
   m_Name: Maze
   m_TagString: Untagged
@@ -1745,6 +1746,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &1199132410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1199132404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9be1404df1d781428967653daa35385, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeLeft: 60
 --- !u!1 &1200805374
 GameObject:
   m_ObjectHideFlags: 0
