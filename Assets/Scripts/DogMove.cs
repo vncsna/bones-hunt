@@ -45,6 +45,7 @@ public class DogMove : MonoBehaviour {
             target = (Vector2) transform.position;
         }
         if (co.tag == "Enemy") {
+            Time.timeScale = 0;
             SceneManager.LoadScene("Lost");
         }
     }
